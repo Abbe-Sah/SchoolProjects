@@ -1,1 +1,7 @@
 SOLID project for school.
+2 abstract classes
+2 interfaces
+Error handler for input
+
+Own object class for messages handling.
+Using HashMap
